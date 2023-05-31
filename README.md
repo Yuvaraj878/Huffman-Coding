@@ -21,7 +21,7 @@ Print the characters and its huffmancode.
 ```python
 # Developed By : YUVARAJ.S
 # Register Number : 22008589
-string = '212222240119 Yuvaraj.S'
+string = '22008589 Yuvaraj.S'
 class NodeTree(object):
     def __init__(self, left=None, right=None): 
         self.left = left
@@ -93,7 +93,7 @@ for (char, frequency) in freq:
 ## Output:
 
 ### Print the characters and its huffmancode
-![](./new.png)
+![](./1.png)
 
 
 ## Result
