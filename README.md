@@ -28,10 +28,6 @@ class NodeTree(object):
         self.right=right
     def children(self):
         return (self.left,self.right)
-    def nodes (self):
-        return (self.left,self.right)
-    def __str__(self):
-        return '%s %s' %(self.left,self.right)
 ```
 
 
